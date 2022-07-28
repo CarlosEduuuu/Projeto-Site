@@ -1,5 +1,5 @@
-# Projeto-Site
-## Projeto usando boa semantica em HTML e modelado com CSS
+# Projeto-Site :boom: :boom: :boom:
+## Projeto usando boa semantica em HTML e modelado com CSS 
 ### Referência Udemy
 #### Propriedades:
 1. Metatags
@@ -20,3 +20,4 @@
 16. Trasições suaves
 17.Text-shadaw
 18. Muito mais...
+:congratulations:
